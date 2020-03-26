@@ -2,19 +2,19 @@ n,m=map(int,input().split())
 arr=sorted(list(map(int,input().split())))
 visited=[0]*n
 ans=[]
-ansans = []
-
 def dfs(a):
-    global arr,ans,ansans
+    global arr,ans
     if a==m:
-        if ans not in ansans:
-            ansans+=ans[:]
-            print(ans[:])
+        print(*ans)
+        return
+
     else:
+        check=0
         for i in range(n):
-            if visited[i]==1:continue
+            if visited[i]==1 or check==arr[i]:continue
             visited[i]=1
             ans.append(arr[i])
+            check=arr[i]
             dfs(a+1)
             visited[i]=0
             ans.pop()
