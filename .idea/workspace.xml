@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dbc5985-04a1-4834-ad20-8fad21b2b839" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/200323/농작물 수확하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/200323/자기방으로 돌아가기(못품).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/200323/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/200323/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/200323/농작물 수확하기(못품).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200323/자기방으로 돌아가기.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +36,8 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.사분면">
-    <configuration name="영준이의 카드 카운팅" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.자기방으로 돌아가기(못품)">
+    <configuration name="자기방으로 돌아가기(못품)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="코딩모음" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,11 +45,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200316" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200323" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200316/영준이의 카드 카운팅.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\한현종\Desktop\lab\coding\200323\자기방으로 돌아가기(못품).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="농작물 수확하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="코딩모음" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200323" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\한현종\Desktop\lab\coding\200323\농작물 수확하기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,27 +142,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="n과m8" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="코딩모음" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200326" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200326/n과m8.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="n과m9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="코딩모음" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.사분면" />
+        <item itemvalue="Python.자기방으로 돌아가기(못품)" />
+        <item itemvalue="Python.농작물 수확하기(못품)" />
+        <item itemvalue="Python.n과m7" />
         <item itemvalue="Python.경사로" />
         <item itemvalue="Python.n과m9" />
-        <item itemvalue="Python.n과m8" />
-        <item itemvalue="Python.n과m7" />
       </list>
     </recent_temporary>
   </component>
@@ -182,22 +187,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="938" height="268" key="GridCell.Tab.0.bottom" timestamp="1585238970691">
+    <state width="938" height="268" key="GridCell.Tab.0.bottom" timestamp="1585375235412">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585238970691" />
-    <state width="938" height="268" key="GridCell.Tab.0.center" timestamp="1585238970691">
+    <state width="938" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585375235412" />
+    <state width="938" height="268" key="GridCell.Tab.0.center" timestamp="1585375235412">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585238970691" />
-    <state width="938" height="268" key="GridCell.Tab.0.left" timestamp="1585238970691">
+    <state width="938" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585375235412" />
+    <state width="938" height="268" key="GridCell.Tab.0.left" timestamp="1585375235412">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585238970691" />
-    <state width="938" height="268" key="GridCell.Tab.0.right" timestamp="1585238970691">
+    <state width="938" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585375235412" />
+    <state width="938" height="268" key="GridCell.Tab.0.right" timestamp="1585375235412">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585238970691" />
+    <state width="938" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585375235412" />
     <state width="938" height="336" key="GridCell.Tab.1.bottom" timestamp="1585238292269">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
