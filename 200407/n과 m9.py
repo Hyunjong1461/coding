@@ -3,23 +3,23 @@ arr=list(map(int,input().split()))
 arr=sorted(arr)
 
 alist=[]
-k=[-100]
-visited=[0]*(n)
-def dfs(a):
-    global alist, k
-    if a==m:
-        print(alist)
 
-        return
-    else:
-        for i in range(n):
-            if visited[i]==0:
-                alist.append(arr[i])
-                if alist == k:
-                    alist.pop()
-                visited[i]=1
-                dfs(a+1)
-                k=[*alist]
-                alist.pop()
-                visited[i] = 0
+visited=[0]*(n)
+
+all = []
+def dfs(a):
+
+    if a==m:
+        print(*alist)
+
+    a=0
+    for i in range(n):
+        if visited[i]==0 and a != arr[i]:
+            alist.append(arr[i])
+            visited[i] = 1
+            a=arr[i]
+            dfs(a + 1)
+            alist.pop()
+            visited[i] = 0
+
 dfs(0)
