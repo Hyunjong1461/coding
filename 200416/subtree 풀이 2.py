@@ -9,9 +9,7 @@ for tc in range(1,int(input())+1):
         else: L[p]=c
 
     def subTree(v):
-
         if v==0: return 0
-
         l=subTree(L[v])
         r=subTree(R[v])
         return l+r+1
