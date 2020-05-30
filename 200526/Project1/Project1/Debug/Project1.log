@@ -1,0 +1,7 @@
+﻿  myname.c
+C:\Users\한현종\Desktop\lab\coding\200526\Project1\Project1\myname.c(13,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\한현종\Desktop\lab\coding\200526\Project1\Project1\myname.c(7,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\한현종\Desktop\lab\coding\200526\Project1\Project1\myname.c(8,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\한현종\Desktop\lab\coding\200526\Project1\Project1\myname.c(9,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\한현종\Desktop\lab\coding\200526\Project1\Project1\myname.c(10,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Project1.vcxproj -> C:\Users\한현종\Desktop\lab\coding\200526\Project1\Debug\Project1.exe
